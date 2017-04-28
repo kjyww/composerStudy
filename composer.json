@@ -1,0 +1,16 @@
+{
+    "name": "kjyww/composerstudy",
+    "description": "study compser and github",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yueweiwei",
+            "email": "276338627@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
